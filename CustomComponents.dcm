@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP K155NA1
+D Nixie tube driver // BCD to decimal
+K USSR K155ID1 K155NA1
+F datasheets/k155na1.pdf
+$ENDCMP
+#
+#End Doc Library
