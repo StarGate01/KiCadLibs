@@ -6,6 +6,12 @@ K Arduino Nano
 F datasheets/ArduinoNano.pdf
 $ENDCMP
 #
+$CMP IN-12B
+D Nixie tube IN-12B
+K USSR IN-12B
+F datasheets/IN-12B.pdf
+$ENDCMP
+#
 $CMP K155NA1
 D Nixie tube driver // BCD to decimal
 K USSR K155ID1 K155NA1
