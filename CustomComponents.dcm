@@ -12,6 +12,12 @@ K Arduino Nano
 F datasheets/ArduinoNano.pdf
 $ENDCMP
 #
+$CMP BoxHeader_02x05
+D Box header connector, double row, 02x05
+K box header connector
+F ~
+$ENDCMP
+#
 $CMP IN-12B
 D Nixie tube IN-12B
 K USSR IN-12B
