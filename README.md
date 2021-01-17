@@ -5,6 +5,7 @@
 - Arduino Nano
 - K155ID1 / K155NA1 (Russian Nixie tube driver IC)
 - IN-12B (Russian Nixie Tube)
+- 788BS (8x8 Mini LED Matrix)
 
 Also check out the images!
 

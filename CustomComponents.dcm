@@ -6,6 +6,12 @@ K HCMOS SR 3State
 F 74xx/74HC595.pdf
 $ENDCMP
 #
+$CMP 788BS
+D Mini 8x8 LED Matrix
+K LED, Matrix
+F datasheets/TOP-CA-788BS.pdf
+$ENDCMP
+#
 $CMP ArduinoNano
 D Arduino Nano
 K Arduino Nano
