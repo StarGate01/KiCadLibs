@@ -6,6 +6,7 @@
 - K155ID1 / K155NA1 (Russian Nixie tube driver IC)
 - IN-12B (Russian Nixie Tube)
 - 788BS (8x8 Mini LED Matrix)
+- Sunrom 4388 (Mini SMD pushbutton switch)
 
 Also check out the images!
 
