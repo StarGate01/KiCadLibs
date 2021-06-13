@@ -24,6 +24,11 @@ K box header connector
 F ~
 $ENDCMP
 #
+$CMP CC6902
+D Cross Chip CC6902SO current measuring chip
+K current
+$ENDCMP
+#
 $CMP IN-12B
 D Nixie tube IN-12B
 K USSR IN-12B

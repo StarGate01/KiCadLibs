@@ -7,6 +7,7 @@
 - IN-12B (Russian Nixie Tube)
 - 788BS (8x8 Mini LED Matrix)
 - Sunrom 4388 (Mini SMD pushbutton switch)
+- Cross Chip CC6902 (Current measuring IC)
 
 Also check out the images!
 
