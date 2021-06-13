@@ -8,6 +8,7 @@
 - 788BS (8x8 Mini LED Matrix)
 - Sunrom 4388 (Mini SMD pushbutton switch)
 - Cross Chip CC6902 (Current measuring IC)
+- Sharp PC817X2CSP9F (Optocoupler)
 
 Also check out the images!
 

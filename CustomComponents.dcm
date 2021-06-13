@@ -41,4 +41,9 @@ K USSR K155ID1 K155NA1
 F datasheets/k155na1.pdf
 $ENDCMP
 #
+$CMP PC817X2CSP9F
+D DC Optocoupler, SMD-4
+K NPN DC Optocoupler
+$ENDCMP
+#
 #End Doc Library
