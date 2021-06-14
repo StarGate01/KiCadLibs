@@ -7,8 +7,9 @@
 - IN-12B (Russian Nixie Tube)
 - 788BS (8x8 Mini LED Matrix)
 - Sunrom 4388 (Mini SMD pushbutton switch)
-- Cross Chip CC6902 (Current measuring IC)
+- Cross Chip CC690XSO-XA (Current measuring ICs)
 - Sharp PC817X2CSP9F (Optocoupler)
+- NXP PCA9557PW (8 channel IO extender)
 
 Also check out the images!
 

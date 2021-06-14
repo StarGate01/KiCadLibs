@@ -24,8 +24,8 @@ K box header connector
 F ~
 $ENDCMP
 #
-$CMP CC6902
-D Cross Chip CC6902SO current measuring chip
+$CMP CC690XSO-XA
+D Cross Chip CC690XSO-XA current measuring chip
 K current
 $ENDCMP
 #
@@ -44,6 +44,11 @@ $ENDCMP
 $CMP PC817X2CSP9F
 D DC Optocoupler, SMD-4
 K NPN DC Optocoupler
+$ENDCMP
+#
+$CMP PCA9557PW
+D IO expander 8 GPIO, I2C, TSSOP-16
+K I2C TWI IO expander
 $ENDCMP
 #
 #End Doc Library
