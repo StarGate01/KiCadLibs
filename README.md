@@ -11,6 +11,10 @@
 - Sharp PC817X2CSP9F (Optocoupler)
 - NXP PCA9557PW (8 channel IO extender)
 
+Footprint only:
+
+- D_SMAF (SMD SMAF Diode)
+
 Also check out the images!
 
 ### Third Party
