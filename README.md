@@ -14,6 +14,7 @@
 Footprint only:
 
 - D_SMAF (SMD SMAF Diode)
+- JST_XH_B5B-XH-A_1x05_P2.54mm_Vertical (Third-party 5-pin JST plug with 2.54 instead of 2.50 pitch)
 
 Also check out the images!
 
